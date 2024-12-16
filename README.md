@@ -5,17 +5,16 @@ Bai3 là web quản lí Thư Viện <br>
 Trương Việt Vũ - 2274802011045: Lên bảng làm bài 5 lần<br>
 <br>
 Tóm Tắt <br>
-I. XÂY DỰNG ỨNG DỤNG TÍNH TOÁN ĐƠN GIẢN  
-Chức năng cơ bản:  
-1. Tính các phép tính cơ bản:  
-A + B;  
-A - B;  
-A * B;  
-A / B hoặc A // B hoặc A % B 
-2. Tính phương trình bậc 1 hoặc 2:
-ax + b
-ax^2 + bx + c
-<br>
+I. XÂY DỰNG ỨNG DỤNG TÍNH TOÁN ĐƠN GIẢN  <br>
+Chức năng cơ bản:  <br>
+1. Tính các phép tính cơ bản:  <br>
+A + B;  <br>
+A - B;  <br>
+A * B;  <br>
+A / B hoặc A // B hoặc A % B <br>
+2. Tính phương trình bậc 1 hoặc 2:<br>
+ax + b<br>
+ax^2 + bx + c<br>
 II. XÂY DỰNG APPLICATION QUẢN LÝ SÁCH <br>
 Chức năng cơ bản:<br>
 - Đăng nhập vào ứng dụng quản lí sách <br>
