@@ -24,6 +24,7 @@ Chức năng cơ bản:<br>
 • Ngắt kết nối với ứng dụng <br>
 - Thanh Menu gồm: <br>
 Save (Lưu dữ liệu), Exit (Thoát ra khỏi ứng dụng) <br>
+
 III. XÂY DỰNG WEB QUẢN LÝ THƯ VIỆN <br>
 Giao diện website  <br>
 • Trang đăng nhập, đăng kí của người dùng <br>
