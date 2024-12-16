@@ -4,7 +4,7 @@ Bai2 là ứng dụng quản lí sách đơn giản <br>
 Bai3 là web quản lí Thư Viện <br>
 Trương Việt Vũ - 2274802011045: Lên bảng làm bài 5 lần<br>
 <br>
-Tóm Tắt
+Tóm Tắt <br>
 I. XÂY DỰNG ỨNG DỤNG TÍNH TOÁN ĐƠN GIẢN  
 Chức năng cơ bản:  
 1. Tính các phép tính cơ bản:  
