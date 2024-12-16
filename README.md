@@ -13,15 +13,15 @@ A - B;
 A * B;  
 A / B hoặc A // B hoặc A % B 
 2. Tính phương trình bậc 1 hoặc 2:
-- ax + b
-- ax^2 + bx + c  
+ax + b
+ax^2 + bx + c  
 II. XÂY DỰNG APPLICATION QUẢN LÝ SÁCH 
 Chức năng cơ bản:
 - Đăng nhập vào ứng dụng quản lí sách 
 - Quản lý sách:  
 • Tìm kiếm theo tên sách, thêm sách, cập nhật thông tin sách, xóa sách theo ID.  
 • Ngắt kết nối với ứng dụng - Thanh Menu gồm: 
-Save (Lưu dữ liệu), Exit (Thoát ra khỏi ứng dụng) 
+Save (Lưu dữ liệu), Exit (Thoát ra khỏi ứng dụng) <br>
 III. XÂY DỰNG WEB QUẢN LÝ THƯ VIỆN 
 Giao diện website  
 • Trang đăng nhập, đăng kí của người dùng 
