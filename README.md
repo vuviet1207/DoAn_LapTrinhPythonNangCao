@@ -14,7 +14,8 @@ A * B;
 A / B hoặc A // B hoặc A % B 
 2. Tính phương trình bậc 1 hoặc 2:
 ax + b
-ax^2 + bx + c  
+ax^2 + bx + c
+<br>
 II. XÂY DỰNG APPLICATION QUẢN LÝ SÁCH 
 Chức năng cơ bản:
 - Đăng nhập vào ứng dụng quản lí sách 
