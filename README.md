@@ -15,6 +15,7 @@ A / B hoặc A // B hoặc A % B <br>
 2. Tính phương trình bậc 1 hoặc 2:<br>
 ax + b<br>
 ax^2 + bx + c<br>
+
 II. XÂY DỰNG APPLICATION QUẢN LÝ SÁCH <br>
 Chức năng cơ bản:<br>
 - Đăng nhập vào ứng dụng quản lí sách <br>
